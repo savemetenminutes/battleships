@@ -1,0 +1,65 @@
+.logs {
+    float: left;
+    vertical-align: top;
+    padding-left: 0.5vw;
+    line-height: 0.6vw;
+    font-size: 0.5vw;
+    font-family: "Courier New", Courier, monospace;
+}
+
+.log-position-collision-index-wrapper {
+    float: left;
+    padding: 0.05vw;
+}
+
+.log-random-position {
+    float: left;
+}
+
+.log-filter-position {
+    float: left;
+}
+
+.log-coordinate {
+    border: 0.1vw solid black;
+    padding: 0.05vw;
+    box-sizing: border-box;
+}
+
+.log-axis-value-index {
+    vertical-align: sub;
+    font-size: 0.4vw;
+}
+
+.log-axis-value-amount {
+    font-size: 0.6vw;
+    font-weight: bold;
+}
+
+.log-size {
+    font-weight: bold;
+}
+
+.log-index {
+    font-weight: bold;
+}
+
+.log-x {
+    font-weight: bold;
+}
+
+.log-y {
+    font-weight: bold;
+}
+
+.log-deg {
+    font-weight: bold;
+}
+
+.log-position-index {
+    font-weight: bold;
+}
+
+.log-collision-wrapper-highlighted {
+    background-color: rgba(255, 0, 0, 0.3);
+}

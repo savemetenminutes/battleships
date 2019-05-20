@@ -1,0 +1,30 @@
+.wrapper {
+    background-color: transparent;
+    background-image: url(../images/sea.jpg);
+    background-position: 2vw 2vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.clicked {
+    background: rgba(255, 0, 0, 0.3) none no-repeat scroll 0 0;
+}
+
+.sprite.size-4 {
+    background: transparent url(../images/4.png) no-repeat scroll center center;
+    background-size: contain;
+}
+
+.sprite.size-5 {
+    background: transparent url(../images/5.png) no-repeat scroll center center;
+    background-size: contain;
+}
+
+.rp-highlit {
+    background: black;
+}
+
+.fp-highlit {
+    background: white;
+    opacity: 1;
+}
